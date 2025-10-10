@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz! 👋
 
-I'm a **Full Stack Developer** with a passion for building modern and functional mobile applications.
+### I'm a **Full Stack Developer** with a passion for building modern and functional mobile applications.
 
 ---
 
