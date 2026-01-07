@@ -27,3 +27,9 @@ If you have an amazing idea for a mobile app and are looking for help to bring i
     <img src="https://img.shields.io/badge/Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakii470/Sakii470/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakii470/Sakii470/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakii470/Sakii470/output/github-contribution-grid-snake.svg">
+</picture>
