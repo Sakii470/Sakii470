@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   # Run every 2 hours
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */168 * * *"
   
   # Allow manual trigger
   workflow_dispatch:
